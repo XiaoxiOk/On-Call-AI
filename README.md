@@ -376,15 +376,15 @@ npm --prefix frontend run dev -- --host 127.0.0.1
 
 ### 11.1 Overview
 
-![0_Overview](./screenshot\0_Overview.png)
+![0_Overview](screenshot/0_Overview.png)
 
 ### 11.2 Phase 1:关键词检索
 
-![01_关键词检索_show](./screenshot\01_关键词检索_show.png)
+![01_关键词检索_show](screenshot/01_关键词检索_show.png)
 
 ### 11.3 Phase 2: 语义检索
-![02_语义检索_show](./screenshot\02_语义检索_show.png)
+![02_语义检索_show](screenshot/02_语义检索_show.png)
 
 ### 11.4 Phase 3
 
-![03_On-Call助手_show](./screenshot\03_On-Call助手Agent_show.png)
+![03_On-Call助手_show](screenshot/03_On-Call助手Agent_show.png)
