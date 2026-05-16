@@ -24,6 +24,7 @@ def build_application_services(settings: Settings) -> ApplicationServices:
     )
     semantic_search = SemanticSearchService(
         repository,
+        keyword_search=keyword_search,
         default_limit=settings.semantic_top_k,
         model_name=settings.embedding_model_name,
         query_instruction=settings.embedding_query_instruction,
